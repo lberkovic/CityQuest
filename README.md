@@ -36,3 +36,7 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
+
+
+Članovi timova: Leonarda Josipović, Borna Lončarević, Luka Džanan, Karlo Kardum, Lana Berković
+Tema: Aplikacija za istraživanje gradova putem ruta, virtualne stvarnosti uz mogućnosti igranja u paru ili samostalno.
